@@ -8,7 +8,7 @@
   "Status":"Open",
   "Autor":"Aleksandr B.",
   "Assigned to":"Ivan P.",
-  "Environment":"Browser Firefox v. 97.0.1 (64 bit)",:"Windows Windows 10 Pro v. 19042.1526",
+  "Environment":"Browser Firefox v. 97.0.1 (64 bit)",:"Windows 10 Pro v. 19042.1526",
   "STR":"1) Open website www.testshop.com","2) Go to login window","3) Enter your details and click 'login button'",
   "Result":"User is logged in",
   "Expected Result":"Nothing has happened"
